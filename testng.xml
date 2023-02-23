@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/sunva/IdeaProjects/A2/src/test/java/testCases"><classes><class name="testCases.TC_001_AccountRegistrationTest"><methods><include name="test_account_Registration"/></methods></class></classes></test></suite>
